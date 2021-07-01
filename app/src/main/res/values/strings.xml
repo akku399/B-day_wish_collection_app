@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Heartiest Congratulations!</string>
+    <string name="your_name_hint">Enter your good name</string>
+    <string name="your_wish_hint">Enter your lovely wish</string>
+</resources>

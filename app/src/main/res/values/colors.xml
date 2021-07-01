@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ee6002</color>
+    <color name="colorPrimaryDark">#e54304</color>
+    <color name="textColorHint">#F4511e</color>
+    <color name="black">#000000</color>
+    <color name="white_color">#ffffff</color>
+    <color name="button_color">#33691e</color>
+    <color name="yello">#ffb300</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="colorAccent">#23283a</color>
+    <color name="green">#E3F2FD</color>
+    <color name="background_layout">#e8eaf6</color>
+    <color name="darkblue">#23283a</color>
+    <color name="red">#FF0000</color>
+    <color name="pink">#f48fb1</color>
+    <color name="row_bck_color">#A7FFEB</color>
+    <color name="wish_layout">#64FFDA</color>
+</resources>
